@@ -1,0 +1,8 @@
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\bin\Debug\MesmoIP.exe.config
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\bin\Debug\MesmoIP.exe
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\bin\Debug\MesmoIP.pdb
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\obj\Debug\MesmoIP.csprojResolveAssemblyReference.cache
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\obj\Debug\MesmoIP.Properties.Resources.resources
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\obj\Debug\MesmoIP.csproj.GenerateResource.Cache
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\obj\Debug\MesmoIP.exe
+c:\users\msv02\documents\visual studio 2012\Projects\MesmoIP\MesmoIP\obj\Debug\MesmoIP.pdb
